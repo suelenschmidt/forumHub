@@ -1,0 +1,10 @@
+com\forumhub\forumhub\controller\TopicoController.class
+com\forumhub\forumhub\repository\TopicoRepository.class
+com\forumhub\forumhub\repository\UsuarioRepository.class
+com\forumhub\forumhub\dto\TopicoForm.class
+com\forumhub\forumhub\model\Usuario.class
+com\forumhub\forumhub\service\TopicoService.class
+com\forumhub\forumhub\ForumhubApplication.class
+com\forumhub\forumhub\security\SecurityConfiguration.class
+com\forumhub\forumhub\dto\TopicoDTO.class
+com\forumhub\forumhub\model\Topico.class
